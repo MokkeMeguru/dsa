@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <boost/format.hpp>
 #define rep(i, n) for (int i = 0; i < (int)(n); i++)
 using namespace std;
 vector<string> devides = {"dream", "dreamer", "erase", "eraser"};
@@ -23,6 +22,7 @@ int main() {
     }
     tp = tc;
     xp = xc;
+
     yp = yc;
   }
   if (reachable) {
