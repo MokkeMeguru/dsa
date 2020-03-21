@@ -1,3 +1,4 @@
 workspace
 yahoo/
 /aoj/__pycache__/
+*.txt
