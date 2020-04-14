@@ -2,3 +2,4 @@ workspace
 yahoo/
 /aoj/__pycache__/
 *.txt
+/aoj/workspace.tmp.py
